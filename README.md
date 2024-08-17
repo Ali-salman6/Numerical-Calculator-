@@ -43,9 +43,10 @@ pip install prettytable
 
 ## Ensure you have the necessary files:
 
-- To have a ppt ".pptx": The PowerPoint presentation file.
-- The "logo".ico: The icon file for the application.
-- "Mobile-in-hand.png": The image used in the GUI background.
+- Create your own PowerPoint presentation file.
+- The "logo".ico file for the application.
+- "Mobile-in-hand.png": The image used in the GUI background / you can use any other photos.
+- Add different images and link them in the code.
 
 
 #Run the application:
